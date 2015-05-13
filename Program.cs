@@ -25,6 +25,7 @@ namespace HWP_EN_Searcher
                 string path = sr.ReadLine();
                 Search(path);
             }
+            sr.Close();
         }
         static public void Search(string path)
         {
@@ -59,6 +60,8 @@ namespace HWP_EN_Searcher
                 Console.WriteLine("===========================================");
                 Console.WriteLine();
             }
+            fs.Close();
+            br.Close();
         }
     }
 }
