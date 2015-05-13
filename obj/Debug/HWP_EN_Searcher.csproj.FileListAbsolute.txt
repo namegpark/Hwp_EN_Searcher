@@ -1,0 +1,6 @@
+C:\Users\ParkGeon\Desktop\HWP_EN_Searcher\HWP_EN_Searcher\bin\Debug\HWP_EN_Searcher.exe.config
+C:\Users\ParkGeon\Desktop\HWP_EN_Searcher\HWP_EN_Searcher\bin\Debug\HWP_EN_Searcher.exe
+C:\Users\ParkGeon\Desktop\HWP_EN_Searcher\HWP_EN_Searcher\bin\Debug\HWP_EN_Searcher.pdb
+C:\Users\ParkGeon\Desktop\HWP_EN_Searcher\HWP_EN_Searcher\obj\Debug\HWP_EN_Searcher.csprojResolveAssemblyReference.cache
+C:\Users\ParkGeon\Desktop\HWP_EN_Searcher\HWP_EN_Searcher\obj\Debug\HWP_EN_Searcher.exe
+C:\Users\ParkGeon\Desktop\HWP_EN_Searcher\HWP_EN_Searcher\obj\Debug\HWP_EN_Searcher.pdb
